@@ -90,7 +90,7 @@ export function Welcome() {
               <h3 className="font-bold text-lg text-blue-300">Socials</h3>
               <a href="https://github.com/teunnije" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-slate-900/80 hover:bg-slate-900 text-white px-4 py-2 rounded-xl font-medium hover:scale-105 transition-all w-full justify-center border border-white/10"><span>View my GitHub</span></a>
               <a href="https://www.instagram.com/w.afra_/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-gradient-to-tr from-amber-500/80 via-pink-500/80 to-purple-600/80 hover:from-amber-500 hover:via-pink-500 hover:to-purple-600 text-white px-4 py-2 rounded-xl font-medium hover:scale-105 transition-all w-full justify-center shadow-lg"><span>Follow on Instagram</span></a>
-              <a href="http://googleusercontent.com/spotify.com/4" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-[#1DB954]/80 hover:bg-[#1DB954] text-black px-5 py-2.5 rounded-xl font-semibold hover:scale-105 transition-all w-full justify-center"><span>Listen on Spotify</span></a>
+              <a href="https://open.spotify.com/user/amftjcn7cpchhf5u8jj68rcra?si=6cec2728b8564e09" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-[#1DB954]/80 hover:bg-[#1DB954] text-black px-5 py-2.5 rounded-xl font-semibold hover:scale-105 transition-all w-full justify-center"><span>Listen on Spotify</span></a>
             </div>
           </div>
 
@@ -118,7 +118,7 @@ export function Welcome() {
               <h3 className="font-bold text-lg text-pink-300">Socials</h3>
               <a href="https://github.com/teunnije" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-slate-900/80 hover:bg-slate-900 text-white px-4 py-2 rounded-xl font-medium hover:scale-105 transition-all w-full justify-center border border-white/10"><span>View my GitHub</span></a>
               <a href="https://www.instagram.com/deniizboz_/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-gradient-to-tr from-amber-500/80 via-pink-500/80 to-purple-600/80 hover:from-amber-500 hover:via-pink-500 hover:to-purple-600 text-white px-4 py-2 rounded-xl font-medium hover:scale-105 transition-all w-full justify-center shadow-lg"><span>Follow on Instagram</span></a>
-              <a href="http://googleusercontent.com/spotify.com/4" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-[#1DB954]/80 hover:bg-[#1DB954] text-black px-5 py-2.5 rounded-xl font-semibold hover:scale-105 transition-all w-full justify-center"><span>Listen on Spotify</span></a>
+              <a href="https://open.spotify.com/user/deniz_boz?si=65f3071184c84319" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-[#1DB954]/80 hover:bg-[#1DB954] text-black px-5 py-2.5 rounded-xl font-semibold hover:scale-105 transition-all w-full justify-center"><span>Listen on Spotify</span></a>
             </div>
           </div>
 
@@ -146,7 +146,7 @@ export function Welcome() {
               <h3 className="font-bold text-lg text-green-300">Socials</h3>
               <a href="https://github.com/teunnije" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-slate-900/80 hover:bg-slate-900 text-white px-4 py-2 rounded-xl font-medium hover:scale-105 transition-all w-full justify-center border border-white/10"><span>View my GitHub</span></a>
               <a href="https://www.instagram.com/teun.nb/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-gradient-to-tr from-amber-500/80 via-pink-500/80 to-purple-600/80 hover:from-amber-500 hover:via-pink-500 hover:to-purple-600 text-white px-4 py-2 rounded-xl font-medium hover:scale-105 transition-all w-full justify-center shadow-lg"><span>Follow on Instagram</span></a>
-              <a href="http://googleusercontent.com/spotify.com/4" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-[#1DB954]/80 hover:bg-[#1DB954] text-black px-5 py-2.5 rounded-xl font-semibold hover:scale-105 transition-all w-full justify-center"><span>Listen on Spotify</span></a>
+              <a href="https://open.spotify.com/user/wkv9tytsol9nk0aean2utw3rg?si=1d0f3dd0e96d4cfc" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-[#1DB954]/80 hover:bg-[#1DB954] text-black px-5 py-2.5 rounded-xl font-semibold hover:scale-105 transition-all w-full justify-center"><span>Listen on Spotify</span></a>
             </div>
           </div>
 
